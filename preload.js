@@ -1,4 +1,4 @@
-// Vencord a92ff91
+// Vencord ed90f3d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
