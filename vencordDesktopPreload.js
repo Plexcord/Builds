@@ -1,4 +1,4 @@
-// Vencord ed90f3d
+// Vencord 00f02fe
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
