@@ -1,4 +1,4 @@
-// Vencord 32776ef
+// Plexcord a797b4c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
