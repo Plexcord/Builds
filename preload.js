@@ -1,4 +1,4 @@
-// Vencord aa9966a
+// Vencord 32776ef
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
