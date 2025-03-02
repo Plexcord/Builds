@@ -1,4 +1,4 @@
-// Plexcord 12dacca
+// Plexcord 5b5a131
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
