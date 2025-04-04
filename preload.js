@@ -1,4 +1,4 @@
-// Plexcord 7cb43d5
+// Plexcord 97cfc07
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
