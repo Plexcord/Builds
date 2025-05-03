@@ -1,4 +1,4 @@
-// Plexcord b595cda
+// Plexcord 6caef01
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
