@@ -1,4 +1,4 @@
-// Plexcord 7ab7ed9
+// Plexcord cb34a18
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
