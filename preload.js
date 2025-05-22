@@ -1,4 +1,4 @@
-// Plexcord 6e99441
+// Plexcord 50eb065
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
