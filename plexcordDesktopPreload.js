@@ -1,4 +1,4 @@
-// Plexcord 2ef0b0b
+// Plexcord a824f28
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
