@@ -1,4 +1,4 @@
-// Plexcord 293378a
+// Plexcord 64fc35e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
