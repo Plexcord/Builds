@@ -1,4 +1,4 @@
-// Plexcord 840bc9a
+// Plexcord 39e0299
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
