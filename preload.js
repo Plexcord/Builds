@@ -1,4 +1,4 @@
-// Plexcord c20b1bf
+// Plexcord 3d56858
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
