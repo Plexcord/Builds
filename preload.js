@@ -1,4 +1,4 @@
-// Plexcord cd861bb
+// Plexcord 35f533b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
