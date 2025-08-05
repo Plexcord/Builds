@@ -1,4 +1,4 @@
-// Plexcord 35f533b
+// Plexcord a4c4788
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
