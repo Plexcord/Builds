@@ -1,4 +1,4 @@
-// Plexcord be87dcb
+// Plexcord 772adc1
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
