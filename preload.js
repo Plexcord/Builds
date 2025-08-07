@@ -1,4 +1,4 @@
-// Plexcord bb40df3
+// Plexcord 77ab087
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
