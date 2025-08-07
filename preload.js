@@ -1,4 +1,4 @@
-// Plexcord 77ab087
+// Plexcord 1cf113a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
