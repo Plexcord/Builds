@@ -1,4 +1,4 @@
-// Plexcord 7061bf4
+// Plexcord ec43dc9
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
