@@ -1,4 +1,4 @@
-// Plexcord f32bbbe
+// Plexcord 79186a1
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
