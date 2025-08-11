@@ -1,4 +1,4 @@
-// Plexcord 79186a1
+// Plexcord cb1f150
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
