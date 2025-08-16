@@ -1,4 +1,4 @@
-// Plexcord 68f3fda
+// Plexcord 906924b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
