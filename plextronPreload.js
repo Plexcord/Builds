@@ -1,4 +1,4 @@
-// Plexcord eafec0d
+// Plexcord bd8c590
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
