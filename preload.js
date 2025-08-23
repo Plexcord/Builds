@@ -1,4 +1,4 @@
-// Plexcord b524398
+// Plexcord 1290d50
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
