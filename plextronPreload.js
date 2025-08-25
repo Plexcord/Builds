@@ -1,4 +1,4 @@
-// Plexcord b7e93ff
+// Plexcord bb2cafd
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
