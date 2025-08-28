@@ -1,4 +1,4 @@
-// Plexcord bb2cafd
+// Plexcord 01cc328
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
