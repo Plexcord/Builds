@@ -1,4 +1,4 @@
-// Plexcord 3d31e5a
+// Plexcord 84a1900
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
