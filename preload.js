@@ -1,4 +1,4 @@
-// Plexcord 84a1900
+// Plexcord 697cb4e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
