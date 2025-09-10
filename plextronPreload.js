@@ -1,4 +1,4 @@
-// Plexcord 502b46b
+// Plexcord eaa304a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
