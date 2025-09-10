@@ -1,4 +1,4 @@
-// Plexcord fc196b1
+// Plexcord 502b46b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
