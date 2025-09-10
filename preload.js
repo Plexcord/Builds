@@ -1,4 +1,4 @@
-// Plexcord 688f6eb
+// Plexcord ac5ef45
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
