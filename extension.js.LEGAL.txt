@@ -23,6 +23,13 @@
  * @link https://github.com/discord/discord-intl
  * @license MIT
  */
+/**
+ * apng-canvas v2.1.2
+ *
+ * @copyright 2011-2019 David Mzareulyan
+ * @link https://github.com/davidmz/apng-canvas
+ * @license MIT
+ */
 /*!
  * Plexcord, a modification for Discord's desktop app
  * Copyright (c) 2022 Vendicated and contributors
@@ -58,13 +65,6 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
-/**
- * apng-canvas v2.1.2
- *
- * @copyright 2011-2019 David Mzareulyan
- * @link https://github.com/davidmz/apng-canvas
- * @license MIT
  */
 
 Bundled license information:
