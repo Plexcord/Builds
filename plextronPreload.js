@@ -1,4 +1,4 @@
-// Plexcord b336dd0
+// Plexcord 38be813
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
