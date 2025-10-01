@@ -1,4 +1,4 @@
-// Plexcord ea6309f
+// Plexcord 9f99235
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
