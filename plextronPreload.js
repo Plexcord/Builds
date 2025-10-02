@@ -1,4 +1,4 @@
-// Plexcord 23465a2
+// Plexcord 3da7cfe
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
