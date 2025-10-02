@@ -1,4 +1,4 @@
-// Plexcord 0c64938
+// Plexcord 23465a2
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
