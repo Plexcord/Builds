@@ -1,4 +1,4 @@
-// Plexcord 0a3b27e
+// Plexcord d713d23
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
