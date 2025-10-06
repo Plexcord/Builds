@@ -1,4 +1,4 @@
-// Plexcord c41146f
+// Plexcord 2023e6c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
