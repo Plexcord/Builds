@@ -1,4 +1,4 @@
-// Plexcord bc95d44
+// Plexcord 939e50c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
