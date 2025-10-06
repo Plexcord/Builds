@@ -1,4 +1,4 @@
-// Plexcord 2023e6c
+// Plexcord bc95d44
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
