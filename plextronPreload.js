@@ -1,4 +1,4 @@
-// Plexcord dd9ceb1
+// Plexcord ca05703
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
