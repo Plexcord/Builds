@@ -1,4 +1,4 @@
-// Plexcord 8dd3010
+// Plexcord 3b86f1d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
