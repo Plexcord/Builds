@@ -1,4 +1,4 @@
-// Plexcord c02f1d2
+// Plexcord 5b5699e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
