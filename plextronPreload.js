@@ -1,4 +1,4 @@
-// Plexcord e96eeb7
+// Plexcord b8a3495
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
