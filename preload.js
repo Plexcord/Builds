@@ -1,4 +1,4 @@
-// Plexcord 4c03d02
+// Plexcord 9875a41
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
