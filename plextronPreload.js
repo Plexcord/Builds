@@ -1,4 +1,4 @@
-// Plexcord 227a08a
+// Plexcord 7f00228
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
