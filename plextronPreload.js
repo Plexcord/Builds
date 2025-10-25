@@ -1,4 +1,4 @@
-// Plexcord 9875a41
+// Plexcord 2970f30
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
