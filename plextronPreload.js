@@ -1,4 +1,4 @@
-// Plexcord 94b5770
+// Plexcord 567eada
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
