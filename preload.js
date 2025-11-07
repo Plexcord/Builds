@@ -1,4 +1,4 @@
-// Plexcord 9fddc19
+// Plexcord e247a5e
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
