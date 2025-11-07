@@ -1,4 +1,4 @@
-// Plexcord c80e5c8
+// Plexcord 0cac79c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
