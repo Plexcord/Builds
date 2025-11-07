@@ -1,4 +1,4 @@
-// Plexcord dbd030a
+// Plexcord c80e5c8
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
