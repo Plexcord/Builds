@@ -1,4 +1,4 @@
-// Plexcord 88bfe68
+// Plexcord 3510fa7
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
