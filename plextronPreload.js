@@ -1,4 +1,4 @@
-// Plexcord d5932bb
+// Plexcord 306caad
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
