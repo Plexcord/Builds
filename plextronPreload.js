@@ -1,4 +1,4 @@
-// Plexcord 8a2edcf
+// Plexcord bd8726a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
