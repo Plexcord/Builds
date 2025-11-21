@@ -1,4 +1,4 @@
-// Plexcord 935214d
+// Plexcord 3e842ea
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
