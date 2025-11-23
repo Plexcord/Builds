@@ -1,4 +1,4 @@
-// Plexcord 667b0b1
+// Plexcord ef3a070
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
