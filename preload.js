@@ -1,4 +1,4 @@
-// Plexcord b040601
+// Plexcord 0ee17ac
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
