@@ -1,4 +1,4 @@
-// Plexcord 0ee17ac
+// Plexcord 06e5366
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
