@@ -1,4 +1,4 @@
-// Plexcord c3246af
+// Plexcord 93a8b92
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
