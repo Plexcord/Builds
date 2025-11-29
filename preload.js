@@ -1,4 +1,4 @@
-// Plexcord bd8bcaf
+// Plexcord 1173d6b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
