@@ -1,4 +1,4 @@
-// Plexcord 88ea650
+// Plexcord 9b37f46
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
