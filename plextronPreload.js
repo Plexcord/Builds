@@ -1,4 +1,4 @@
-// Plexcord e46364a
+// Plexcord 3e39143
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
