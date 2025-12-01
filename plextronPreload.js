@@ -1,4 +1,4 @@
-// Plexcord d9da535
+// Plexcord 6c3b72d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
