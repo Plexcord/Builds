@@ -1,4 +1,4 @@
-// Plexcord ffb21c5
+// Plexcord 4b4bb9d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
