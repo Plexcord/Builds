@@ -1,4 +1,4 @@
-// Plexcord b505fd3
+// Plexcord 6db2338
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
