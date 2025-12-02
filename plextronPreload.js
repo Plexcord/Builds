@@ -1,4 +1,4 @@
-// Plexcord 2a4565c
+// Plexcord c12d97c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
