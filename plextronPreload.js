@@ -1,4 +1,4 @@
-// Plexcord 5401aef
+// Plexcord e15c5a6
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
