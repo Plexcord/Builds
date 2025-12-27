@@ -1,4 +1,4 @@
-// Plexcord fdc0881
+// Plexcord 5a43231
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
