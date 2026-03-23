@@ -1,4 +1,4 @@
-// Plexcord e4954aae0b56c0b37b5dad63207813f850c3c667
+// Plexcord 3afc5e38edac58886705463bf8ff63ab0940ba8d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
