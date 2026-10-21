@@ -16,13 +16,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/**
- * discord-intl
- *
- * @copyright 2024 Discord, Inc.
- * @link https://github.com/discord/discord-intl
- * @license MIT
- */
 /*!
  * BetterDiscord addon meta parser
  * Copyright 2023 BetterDiscord contributors
@@ -40,6 +33,13 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ */
+/**
+ * discord-intl
+ *
+ * @copyright 2024 Discord, Inc.
+ * @link https://github.com/discord/discord-intl
+ * @license MIT
  */
 /*!
  * Plexcord, a modification for Discord's desktop app
@@ -74,6 +74,14 @@ virtual-merge/dist/index.mjs:
    * virtual-merge
    * Copyright (c) 2023 Vendicated
    * SPDX-License-Identifier: MIT
+   */
+
+is-buffer/index.js:
+  /*!
+   * Determine if an object is a Buffer
+   *
+   * @author   Feross Aboukhadijeh <https://feross.org>
+   * @license  MIT
    */
 
 moment/moment.js:
